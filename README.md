@@ -7,7 +7,7 @@ rainmeter的皮肤Rainmeter_Nerv_UI的重制版，原作者为XANCI
 - [ ] 修复天气模块
 - [ ] 为音乐播放器增加potplyer/vlcplayer支持
 - [ ] translate readme into English
-##版权信息
+## 版权信息
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
